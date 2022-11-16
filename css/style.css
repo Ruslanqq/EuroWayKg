@@ -68,7 +68,8 @@ p {
 }
 
 .header__block {
-    width: 20%;
+    display: flex;
+    gap: 40px;
 }
 
 .header__logo {

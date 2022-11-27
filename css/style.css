@@ -485,6 +485,10 @@ p {
     transition: all .2s ease;
 }
 
+td{
+    color: #B7B7B7;
+}
+
 .textarea {
     min-height: 130px;
     width: 100%;
@@ -545,3 +549,12 @@ p {
     height: 25px;
 }
 /*footer end*/
+
+.map__block{
+    width: 100vh;
+    margin: 0 auto;
+}
+
+.map__img{
+    width: 100%;
+}

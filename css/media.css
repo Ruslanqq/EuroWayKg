@@ -202,6 +202,9 @@
 
 
 @media (max-width: 460px) {
+    .map__block{
+        width: 450px;
+    }
     .intro__title {
         font-size: 26px;
     }
